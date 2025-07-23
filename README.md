@@ -12,7 +12,9 @@ Dies ist eine einfache Portfolio-Webseite, die HTML, CSS und JavaScript verwende
 
 ##  Projektstruktur
 ├── index.html # Hauptseite
+
 ├── style.css # Stile für die Webseite
+
 └── script.js # Skript zur Handhabung von Empfehlungen
 
 
