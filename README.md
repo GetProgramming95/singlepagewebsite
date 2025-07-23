@@ -32,8 +32,3 @@ Die Seite enthält:
 - Dynamisches Hinzufügen von Empfehlungen per JavaScript
 - Pop-up zur Bestätigung von Einträgen
 - Responsive Gestaltung mit CSS-Flexbox
-
-## 📷 Vorschau
-
-*(Füge hier ggf. einen Screenshot ein)*
-
